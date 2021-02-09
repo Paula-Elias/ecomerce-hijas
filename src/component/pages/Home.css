@@ -1,0 +1,22 @@
+
+
+.SeccionProductos {
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    flex-flow: row;
+    width: 95%; }
+  
+  .SeccionProductos div {
+    width: 50%; }
+  
+  .SeccionProductos img {
+    height: 300px;
+    padding: 0px;
+    margin: 0px; }
+
+    .texto {
+        font-size: 1.2rem;
+        margin: 15px;
+        padding: 15px;
+        justify-content: space-evenly; }

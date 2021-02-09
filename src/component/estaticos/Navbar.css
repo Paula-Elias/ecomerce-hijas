@@ -1,0 +1,35 @@
+/* .navbar {
+    min-height: 15vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    margin-top: 30px;
+} */
+
+a {
+ width: 95%;
+ margin: 10px;
+ padding: 10px;
+ text-decoration: none;
+ text-transform: none;
+ color: white !important;
+}
+
+.navbar-brand {
+    font-size: 2.5rem !important;
+    
+}
+
+.navbar a, button, li, h6 {
+    color: white;
+
+    background-color: green !important;
+}
+
+ p, button, h6 {
+margin: 10px;
+padding: 10px;
+}
+
+

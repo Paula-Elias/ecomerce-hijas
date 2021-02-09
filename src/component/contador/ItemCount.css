@@ -1,0 +1,10 @@
+.contador {
+    min-height: 15vh;
+    height: 60%;
+}
+
+input {
+    margin: 15px !important;
+    padding: 10px;
+    border: solid 1px #008000; 
+}
